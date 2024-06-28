@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Zouying Cao (曹邹颖)"
-description              : "AI researcher, \n My wish is: effort be proportion to gain!"
+description              : |
+  AI researcher, 
+  My wish is: effort be proportion to gain!
 repository               : "zouyingcao/zouyingcao.github.io"
 google_scholar_stats_use_cdn : false
 
