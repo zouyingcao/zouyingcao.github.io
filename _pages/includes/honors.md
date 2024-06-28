@@ -10,5 +10,5 @@ Below, I list some Honors and Awards that inspire me deeply.
 - *2020~2022* &nbsp;&nbsp; Three-good Student for three consecutive years
 - *2020-12* &nbsp;&nbsp; Scholarship on Social Works in SEU
 - ***2020-12* &nbsp;&nbsp; President Scholarship in SEU**
-- *2020-05* &nbsp;&nbsp; Excellent League cadres, Award for the Models of the Chinese Youth in SEU
+- *2020-05* &nbsp;&nbsp; Excellent League Cadres, Award for the Models of the Chinese Youth in SEU
 - *2020-05* &nbsp;&nbsp; Third Prize, the 17th Southeast University College Student Programming Competition
