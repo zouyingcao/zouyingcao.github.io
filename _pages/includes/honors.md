@@ -1,4 +1,4 @@
-# <font color="Orange">🎖</font> Honors and Awards
+# <font color="Gold">🎖</font> Honors and Awards
 
 Below, I list some Honors and Awards that inspire me deeply.
 
