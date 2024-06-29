@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "<font color="Pink">❀</font> About Me"
+  - title: "🌼 About Me"
     url: "/#about-me"
 
   #- title: "News"
   #  url: "/#-news"
 
-  - title: "Publications"
+  - title: "📝 Publications"
     url: "/#-publications"
     
   - title: "🎓 Educations"
