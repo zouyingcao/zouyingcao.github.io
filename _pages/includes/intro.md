@@ -1,4 +1,4 @@
-# 💬 Biography
+# <div><font color="CornFlowerBlue">❀</font> Biography</div> 
 
 I am now a M.S. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [Department of Computer Science and Engineering](https://cs.sjtu.edu.cn/), under the supervision of [Prof. Hai Zhao](https://bcmi.sjtu.edu.cn/home/zhaohai/). 
 Before that, I received a B.S. degree in Computer Science and Technology from [Southeast University](https://www.seu.edu.cn/), in 2023.
