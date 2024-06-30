@@ -16,6 +16,6 @@ redirect_from:
 
 {% include_relative includes/honors.md %}
 
-# 🗺 Visitor Map
+# 🌏 Visitor Map
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=85a8c6&w=a&t=tt&d=s1SFcatLqBIUkmQUYRbdFmBnNy_eG5q0xXahj0JYcHE&co=ffffff&cmo=a1b2c1&cmn=8299ad&ct=000000'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=85a8c6&w=500&t=tt&d=s1SFcatLqBIUkmQUYRbdFmBnNy_eG5q0xXahj0JYcHE&co=ffffff&cmo=a1b2c1&cmn=8299ad&ct=000000'></script>
