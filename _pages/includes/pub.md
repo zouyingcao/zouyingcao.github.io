@@ -5,6 +5,10 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution)
 
 <div class='paper-box-text' markdown="1">
+- **[Preprint, 2024]** [Nothing in Excess: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/pdf/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. 
+</div>
+
+<div class='paper-box-text' markdown="1">
 - **[Preprint, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/pdf/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. 
 </div>
 
