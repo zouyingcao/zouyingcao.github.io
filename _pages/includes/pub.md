@@ -9,11 +9,11 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/pdf/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. 
+- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/pdf/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. 
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2024]** [LaCo: Large Language Model Pruning via Layer Collapse](https://arxiv.org/pdf/2402.11187), Yifei Yang, **Zouying Cao**, Hai Zhao.
+- **[EMNLP-Findings, 2024]** [LaCo: Large Language Model Pruning via Layer Collapse](https://arxiv.org/pdf/2402.11187), Yifei Yang, **Zouying Cao**, Hai Zhao.
 </div>
 
 <div class='paper-box-text' markdown="1">
