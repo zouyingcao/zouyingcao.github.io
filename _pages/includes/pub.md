@@ -13,7 +13,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[EMNLP-Findings, 2024]** [LaCo: Large Language Model Pruning via Layer Collapse](https://arxiv.org/pdf/2402.11187), Yifei Yang, **Zouying Cao**, Hai Zhao. [[Code]]()
+- **[EMNLP-Findings, 2024]** [LaCo: Large Language Model Pruning via Layer Collapse](https://arxiv.org/pdf/2402.11187), Yifei Yang, **Zouying Cao**, Hai Zhao. 
 </div>
 
 <div class='paper-box-text' markdown="1">
