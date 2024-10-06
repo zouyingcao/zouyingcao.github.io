@@ -17,7 +17,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2023]** [Autohall: Automated hallucination dataset generation for large language models](https://arxiv.org/pdf/2310.00259), **Zouying Cao**, Yifei Yang, Hai Zhao. [[Code]](https://github.com/zouyingcao/AutoHall)
+- **[Preprint, 2023]** [AutoHall: Automated Hallucination Dataset Generation for Large Language Models](https://arxiv.org/pdf/2310.00259), **Zouying Cao**, Yifei Yang, Hai Zhao. [[Code]](https://github.com/zouyingcao/AutoHall)
 </div>
 
 <div class='paper-box-text' markdown="1">
