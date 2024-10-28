@@ -5,6 +5,10 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution)
 
 <div class='paper-box-text' markdown="1">
+- **[Preprint, 2024]** [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://arxiv.org/abs/2410.18517), **Yifei Yang**, Zouying Cao, Qiguang Chen, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen. 
+</div>
+
+<div class='paper-box-text' markdown="1">
 - **[Preprint, 2024]** [Nothing in Excess: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/pdf/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. 
 </div>
 
