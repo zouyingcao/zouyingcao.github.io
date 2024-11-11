@@ -2,6 +2,7 @@
 
 Below, I list some Honors and Awards that inspire me deeply.
 
+- *2024-11* &nbsp;&nbsp; First Prize Graduate Academic Scholarship in SJTU
 - *2023-06* &nbsp;&nbsp; Outstanding Graduates of Southeast University
 - ***2023-06* &nbsp;&nbsp; Outstanding Undergraduate Thesis Award of Southeast University**
 - *2022-10* &nbsp;&nbsp; Huawei Scholarship
