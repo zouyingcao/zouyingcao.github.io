@@ -9,7 +9,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2024]** [Nothing in Excess: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/pdf/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. 
+- **[AAAI, 2024]** [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/pdf/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. 
 </div>
 
 <div class='paper-box-text' markdown="1">
