@@ -9,11 +9,12 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[AAAI, 2025]** [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/pdf/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. [[Code]](https://github.com/zouyingcao/SCANS)
+- **[AAAI, 2025]** [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/pdf/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. [[Code]](https://github.com/zouyingcao/SCANS) 
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/pdf/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. [[Code]](https://github.com/zouyingcao/DirectShare)
+- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/pdf/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. [[Code]](https://github.com/zouyingcao/DirectShare) [[Slides]](https://github.com/user-attachments/files/18149503/EMNLP.2024.pptx) [[Poster]](https://github.com/user-attachments/files/18149524/poster.pdf)
+
 </div>
 
 <div class='paper-box-text' markdown="1">
