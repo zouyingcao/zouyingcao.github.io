@@ -5,6 +5,14 @@ A full publication list is available on my [google scholar](https://scholar.goog
 (* denotes equal contribution)
 
 <div class='paper-box-text' markdown="1">
+- **[Preprint, 2025]** [LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794), Yifei Yang, **Zouying Cao**, Xinbei Ma, Yao Yao, Libo Qin, Zhi Chen, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.13794) [[Code]](https://github.com/yangyifei729/LESA)
+</div>
+
+<div class='paper-box-text' markdown="1">
+- **[Preprint, 2025]** [Plan-over-Graph: Towards Parallelable LLM Agent Schedule](https://arxiv.org/abs/2502.14563), Shiqi Zhang*, Xinbei Ma*, **Zouying Cao**, Zhuosheng Zhang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.14563) [[Code]](https://github.com/zsq259/Plan-over-Graph)
+</div>
+
+<div class='paper-box-text' markdown="1">
 - **[Preprint, 2024]** [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://arxiv.org/abs/2410.18517), Yifei Yang, **Zouying Cao**, Qiguang Chen, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen. [[PDF]](https://arxiv.org/pdf/2410.18517) [[Code]](https://github.com/yangyifei729/KVSharer)
 </div>
 
