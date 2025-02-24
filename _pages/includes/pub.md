@@ -9,7 +9,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2025]** [Plan-over-Graph: Towards Parallelable LLM Agent Schedule](https://arxiv.org/abs/2502.14563), Shiqi Zhang*, Xinbei Ma*, **Zouying Cao**, Zhuosheng Zhang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.14563) [[Code]](https://github.com/zsq259/Plan-over-Graph)
+- **[Preprint, 2025]** [Plan-over-Graph: Towards Parallelable LLM Agent Schedule](https://arxiv.org/abs/2502.14563), Shiqi Zhang^*, Xinbei Ma^*, **Zouying Cao**, Zhuosheng Zhang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.14563) [[Code]](https://github.com/zsq259/Plan-over-Graph)
 </div>
 
 <div class='paper-box-text' markdown="1">
