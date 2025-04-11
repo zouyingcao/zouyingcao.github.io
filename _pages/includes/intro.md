@@ -8,4 +8,4 @@ Foremost among them is a personal scientific research project related to order d
 Thinking of the current postgraduate stage, it was literally a serendipity that I began to delve into researches in Large Language Models (LLMs).
 I worked on several interesting research topics related to LLMs, including hallucination, model compression and representation engineering.
 Currently, I am working as a research intern at Alibaba, primarily focusing on LLM agents.
-Here is my [CV in English](https://github.com/user-attachments/files/19699611/-.-.pdf) and I'm actively seeking summer internship opportunities related to LLMs for Summer 2025.
+Here is my <a href="https://zouyingcao.github.io/CV.pdf" target="_blank">CV in English</a> and I'm actively seeking summer internship opportunities related to LLMs for Summer 2025.
