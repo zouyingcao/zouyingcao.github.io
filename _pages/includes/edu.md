@@ -1,7 +1,7 @@
 # 💻 Internship
 - *2024.07 - Present*, Alibaba's Taotian Group, Research Intern
   
-  **Topic**: LLM Agent Planning,
+  **Topic**: LLM Agent Planning
   
   **Contribution**:  We investigate the effectiveness of pseudocode-style plans in agent reasoning, which are more concise and structured than NL plans. Based on two designed planning-oriented rewards, we further introduce [PGPO](https://github.com/zouyingcao/PGPO), a preference optimization method that empowers LLM agents with enhanced reasoning capabilities.
 
