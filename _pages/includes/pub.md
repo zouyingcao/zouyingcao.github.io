@@ -3,6 +3,9 @@
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=IIA4hMEAAAAJ&hl=zh-CN) page.
 
 (* denotes equal contribution)
+<div class='paper-box-text' markdown="1">
+- **[Preprint, 2025]** PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization, **Zouying Cao**, Runze Wang, Yifei Yang, Xinbei Ma, Xiaoyong Zhu, Bo Zheng, Hai Zhao.  [[Code]](https://github.com/zouyingcao/PGPO)
+</div>
 
 <div class='paper-box-text' markdown="1">
 - **[Preprint, 2025]** [LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794), Yifei Yang, **Zouying Cao**, Xinbei Ma, Yao Yao, Libo Qin, Zhi Chen, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.13794) [[Code]](https://github.com/yangyifei729/LESA)
@@ -31,9 +34,4 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 <div class='paper-box-text' markdown="1">
 - **[Preprint, 2023]** [AutoHall: Automated Hallucination Dataset Generation for Large Language Models](https://arxiv.org/abs/2310.00259), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2310.00259) [[Code]](https://github.com/zouyingcao/AutoHall)
-</div>
-
-<div class='paper-box-text' markdown="1">
-- **[WASA, 2022]** [Toward Multi-sided Fairness: A Fairness-Aware Order Dispatch System for Instant Delivery Service](https://link.springer.com/chapter/10.1007/978-3-031-19214-2_25), **Zouying Cao**, Lin Jiang, Xiaolei Zhou, Shilin Zhu, Hai Wang, Shuai Wang. [[PDF]](https://github.com/user-attachments/files/18175340/Paper.pdf) 
-[[Code]](https://github.com/zouyingcao/order_dispatch)
 </div>
