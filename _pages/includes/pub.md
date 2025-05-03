@@ -20,11 +20,11 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[AAAI Oral, 2025]** [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/abs/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2408.11491) [[Code]](https://github.com/zouyingcao/SCANS)
+- **[AAAI Oral, 2025]** [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/abs/2408.11491), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2408.11491) [[Code]](https://github.com/zouyingcao/SCANS) <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank">[Slides]</a> <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank">[Poster]</a>
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/abs/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2402.11819) [[Code]](https://github.com/zouyingcao/DirectShare) [[Slides]](https://github.com/user-attachments/files/18149503/EMNLP.2024.pptx) <a href="https://zouyingcao.github.io/_pages/files/DirectShare-poster.pdf" target="_blank">[Poster]</a>
+- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/abs/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2402.11819) [[Code]](https://github.com/zouyingcao/DirectShare) <a href="https://zouyingcao.github.io/_pages/files/EMNLP 2024.pptx" target="_blank">[Slides]</a> <a href="https://zouyingcao.github.io/_pages/files/DirectShare-poster.pdf" target="_blank">[Poster]</a>
 
 </div>
 
