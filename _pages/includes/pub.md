@@ -24,7 +24,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/abs/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2402.11819) [[Code]](https://github.com/zouyingcao/DirectShare) [[Slides]](https://github.com/user-attachments/files/18149503/EMNLP.2024.pptx) [[Poster]](https://github.com/user-attachments/files/18149624/poster.pdf)<a href="https://zouyingcao.github.io/_pages/files/poster.pdf" target="_blank">[Poster]</a>
+- **[EMNLP-Findings, 2024]** [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/abs/2402.11819), **Zouying Cao**, Yifei Yang, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2402.11819) [[Code]](https://github.com/zouyingcao/DirectShare) [[Slides]](https://github.com/user-attachments/files/18149503/EMNLP.2024.pptx) <a href="https://zouyingcao.github.io/_pages/files/DirectShare-poster.pdf" target="_blank">[Poster]</a>
 
 </div>
 
