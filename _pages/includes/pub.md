@@ -4,11 +4,11 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 (* denotes equal contribution)
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2025]** PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization, **Zouying Cao**, Runze Wang, Yifei Yang, Xinbei Ma, Xiaoyong Zhu, Bo Zheng, Hai Zhao.  [[Code]](https://github.com/zouyingcao/PGPO)
+- **[ACL-Findings, 2025]** PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization, **Zouying Cao**, Runze Wang, Yifei Yang, Xinbei Ma, Xiaoyong Zhu, Bo Zheng, Hai Zhao.  [[Code]](https://github.com/zouyingcao/PGPO)
 </div>
 
 <div class='paper-box-text' markdown="1">
-- **[Preprint, 2025]** [LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794), Yifei Yang, **Zouying Cao**, Xinbei Ma, Yao Yao, Libo Qin, Zhi Chen, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.13794) [[Code]](https://github.com/yangyifei729/LESA)
+- **[ACL-Main, 2025]** [LESA: Learnable LLM Layer Scaling-Up](https://arxiv.org/abs/2502.13794), Yifei Yang, **Zouying Cao**, Xinbei Ma, Yao Yao, Libo Qin, Zhi Chen, Hai Zhao. [[PDF]](https://arxiv.org/pdf/2502.13794) [[Code]](https://github.com/yangyifei729/LESA)
 </div>
 
 <div class='paper-box-text' markdown="1">
