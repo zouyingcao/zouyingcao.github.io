@@ -1,5 +1,5 @@
 # 💻 Internship
-- *2024.07 - Present*, Alibaba's Taotian Group, Research Intern
+- *2024.07 - Present*, Alibaba's Taobao and Tmall Group, Research Intern
   
   **Topic**: LLM Agent Planning
   
