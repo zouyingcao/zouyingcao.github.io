@@ -30,13 +30,13 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/abs/2408.11491) \\
   **Zouying Cao**, Yifei Yang, Hai Zhao. \\
-  **[AAAI Oral, 2025]** | <a href="https://arxiv.org/pdf/2408.11491) | <a href="https://github.com/zouyingcao/SCANS" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank">[Slides]</a> | <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank">[Poster]</a>
+  **[AAAI Oral, 2025]** | <a href="https://arxiv.org/pdf/2408.11491) | <a href="https://github.com/zouyingcao/SCANS" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank"><img src='https://img.shields.io/badge/Slides-181717?style=flat&logo=Slides&logoColor=white' alt='Slides'></a> | <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank"><img src='https://img.shields.io/badge/Poster-181717?style=flat&logo=airplayvideo&logoColor=white' alt='Poster'></a>
 </div>
 
 <div class='paper-box-text' markdown="1">
 - [Head-wise Shareable Attention for Large Language Models](https://arxiv.org/abs/2402.11819) \\
   **Zouying Cao**, Yifei Yang, Hai Zhao. \\
-  **[EMNLP-Findings, 2024]** | <a href="https://arxiv.org/pdf/2402.11819" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/zouyingcao/DirectShare" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://zouyingcao.github.io/_pages/files/EMNLP 2024.pptx" target="_blank">[Slides]</a> | <a href="https://zouyingcao.github.io/_pages/files/DirectShare-poster.pdf" target="_blank">[Poster]</a>
+  **[EMNLP-Findings, 2024]** | <a href="https://arxiv.org/pdf/2402.11819" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/zouyingcao/DirectShare" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://zouyingcao.github.io/_pages/files/EMNLP 2024.pptx" target="_blank"><img src='https://img.shields.io/badge/Slides-181717?style=flat&logo=Slides&logoColor=white' alt='Slides'></a> | <a href="https://zouyingcao.github.io/_pages/files/DirectShare-poster.pdf" target="_blank"><img src='https://img.shields.io/badge/Poster-181717?style=flat&logo=airplayvideo&logoColor=white' alt='Poster'></a>
 
 </div>
 
