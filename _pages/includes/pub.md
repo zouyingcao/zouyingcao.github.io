@@ -6,7 +6,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization](https://arxiv.org/abs/2506.01475) \\
   **Zouying Cao**, Runze Wang, Yifei Yang, Xinbei Ma, Xiaoyong Zhu, Bo Zheng, Hai Zhao.\\
-  **[ACL-Findings, 2025]** | [[PDF]](https://arxiv.org/pdf/2506.01475) | [[Code]](https://github.com/zouyingcao/PGPO) | <a href="https://zouyingcao.github.io/_pages/files/PGPO-poster.pdf" target="_blank">[Poster]</a>
+  **[ACL-Findings, 2025]** | [[PDF]](https://arxiv.org/pdf/2506.01475) | [[Code]](https://github.com/zouyingcao/PGPO) | <a href="https://zouyingcao.github.io/_pages/files/PGPO-ACL 2025.pptx" target="_blank"><button class="slide-btn">[Slides]</button></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-poster.pdf" target="_blank">[Poster]</a>
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -30,7 +30,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/abs/2408.11491) \\
   **Zouying Cao**, Yifei Yang, Hai Zhao. \\
-  **[AAAI Oral, 2025]** | [[PDF]](https://arxiv.org/pdf/2408.11491) | [[Code]](https://github.com/zouyingcao/SCANS) <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank">[Slides]</a> | <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank">[Poster]</a>
+  **[AAAI Oral, 2025]** | [[PDF]](https://arxiv.org/pdf/2408.11491) | [[Code]](https://github.com/zouyingcao/SCANS) | <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank">[Slides]</a> | <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank">[Poster]</a>
 </div>
 
 <div class='paper-box-text' markdown="1">
