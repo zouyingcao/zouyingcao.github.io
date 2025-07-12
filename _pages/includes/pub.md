@@ -43,7 +43,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [LaCo: Large Language Model Pruning via Layer Collapse](https://arxiv.org/abs/2402.11187) \\
   Yifei Yang, **Zouying Cao**, Hai Zhao. \\
-  **[EMNLP-Findings, 2024]** | [[PDF]](https://arxiv.org/pdf/2402.11187" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/yangyifei729/LaCo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> 
+  **[EMNLP-Findings, 2024]** | <a href="https://arxiv.org/pdf/2402.11187" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/yangyifei729/LaCo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> 
 </div>
 
 <div class='paper-box-text' markdown="1">
