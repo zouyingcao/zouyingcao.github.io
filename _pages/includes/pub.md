@@ -28,7 +28,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [SCANS: Mitigating the Exaggerated Safety for LLMs via Safety-Conscious Activation Steering](https://arxiv.org/abs/2408.11491) \\
   **Zouying Cao**, Yifei Yang, Hai Zhao. \\
-  **[AAAI Oral, 2025]** | [[PDF]](https://arxiv.org/pdf/2408.11491) | [[Code]](https://github.com/zouyingcao/SCANS) <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank"> |[Slides]</a> | <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank">[Poster]</a>
+  **[AAAI Oral, 2025]** | [[PDF]](https://arxiv.org/pdf/2408.11491) | [[Code]](https://github.com/zouyingcao/SCANS) <a href="https://zouyingcao.github.io/_pages/files/AAAI 2025.pptx" target="_blank">[Slides]</a> | <a href="https://zouyingcao.github.io/_pages/files/SCANS-poster.pdf" target="_blank">[Poster]</a>
 </div>
 
 <div class='paper-box-text' markdown="1">
