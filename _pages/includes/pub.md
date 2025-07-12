@@ -6,7 +6,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization](https://arxiv.org/abs/2506.01475) \\
   **Zouying Cao**, Runze Wang, Yifei Yang, Xinbei Ma, Xiaoyong Zhu, Bo Zheng, Hai Zhao.\\
-  **[ACL-Findings, 2025]** | [[PDF]](https://arxiv.org/pdf/2506.01475) | [[Code]](https://github.com/zouyingcao/PGPO) | <a href="https://zouyingcao.github.io/_pages/files/PGPO-ACL 2025.pptx" target="_blank"><button class="slide-btn">[Slides]</button></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-poster.pdf" target="_blank">[Poster]</a>
+  **[ACL-Findings, 2025]** | <a href="https://arxiv.org/pdf/2506.01475" target="_blank"><button class="paper-btn">PDF</button></a> | <a href="https://github.com/zouyingcao/PGPO" target="_blank"><button class="code-btn">Code</button></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-ACL 2025.pptx" target="_blank"><button class="slide-btn">Slides</button></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-poster.pdf" target="_blank"><button class="poster-btn">Poster</button></a>
 </div>
 
 <div class='paper-box-text' markdown="1">
