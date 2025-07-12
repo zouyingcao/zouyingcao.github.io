@@ -1,5 +1,9 @@
 # 💻 Internship
-- *2024.07 - Present*, Alibaba's Taobao and Tmall Group, Research Intern
+- *2025.06 - Present*, Tongyi Laboratory, Summer Intern
+  
+  **Topic**: RL + LLM Agent
+
+- *2024.07 - 2025-06*, Taobao & Tmail Group of Alibaba, Research Intern
   
   **Topic**: LLM Agent Planning
   
