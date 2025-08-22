@@ -15,6 +15,6 @@
 - *2019.09 - 2023.06*, B.S.@[SEU](https://www.seu.edu.cn/), Computer Science and Technology, Nanjing, China.
 
 # 🌲 Service
-- Reviewers: ACL Rolling Review
+- Reviewers: ACL Rolling Review, AAAI
 - Student Works
 - Volunteers
