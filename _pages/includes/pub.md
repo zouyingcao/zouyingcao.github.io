@@ -47,7 +47,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 </div>
 
 <div class='paper-box-text' markdown="1">
-- [AutoHall: Automated Hallucination Dataset Generation for Large Language Models](https://arxiv.org/abs/2310.00259) \\
+- [AutoHall: Automated Factuality Hallucination Dataset Generation for Large Language Models](https://arxiv.org/abs/2310.00259) \\
   **Zouying Cao**, Yifei Yang, Hai Zhao. \\
-  **[Preprint, 2023]** | <a href="https://arxiv.org/pdf/2310.00259" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/zouyingcao/AutoHall" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> 
+  **[TASLP]** | <a href="https://arxiv.org/pdf/2310.00259" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/zouyingcao/AutoHall" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> 
 </div>
