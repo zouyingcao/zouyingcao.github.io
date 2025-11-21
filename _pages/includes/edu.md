@@ -1,13 +1,14 @@
 # 💻 Internship
 - *2025.06 - Present*, Tongyi Laboratory, Summer Intern
   
-  **Topic**: RL + LLM Agent
+  **Topic**: LLM Agent + Memory + RL
+  **Contribution**: I participated in the development of the [ReMe](https://github.com/agentscope-ai/ReMe) framework, particularly focusing on the management of procedural memory for experience-driven agent evolution. 
 
 - *2024.07 - 2025-06*, Taobao & Tmail Group of Alibaba, Research Intern
   
   **Topic**: LLM Agent Planning
   
-  **Contribution**:  We investigate the effectiveness of pseudocode-style plans in agent reasoning, which are more concise and structured than NL plans. Based on two designed planning-oriented rewards, we further introduce [PGPO](https://github.com/zouyingcao/PGPO), a preference optimization method that empowers LLM agents with enhanced reasoning capabilities.
+  **Contribution**: We investigate the effectiveness of pseudocode-style plans in agent reasoning, which are more concise and structured than NL plans. Based on two designed planning-oriented rewards, we further introduce [PGPO](https://github.com/zouyingcao/PGPO), a preference optimization method that empowers LLM agents with enhanced reasoning capabilities.
 
 # 🎓 Education
 
