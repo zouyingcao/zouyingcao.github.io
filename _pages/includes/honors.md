@@ -2,8 +2,8 @@
 
 Below, I list some Honors and Awards that inspire me deeply.
 
-- *2025-11* &nbsp;&nbsp; Yang Yuanqing Education Fund Scholarship
-- *2024-11* &nbsp;&nbsp; Huatai Securities Technology Scholarship
+- *2025-11* &nbsp;&nbsp; Yang Yuanqing Education Fund Scholarship (top 0.3%)
+- *2024-11* &nbsp;&nbsp; Huatai Securities Technology Scholarship (top 0.5%)
 - *2024-11* &nbsp;&nbsp; First Prize Graduate Academic Scholarship in SJTU
 - *2023-06* &nbsp;&nbsp; Outstanding Graduates of Southeast University
 - ***2023-06* &nbsp;&nbsp; Outstanding Undergraduate Thesis Award of Southeast University**
@@ -12,6 +12,6 @@ Below, I list some Honors and Awards that inspire me deeply.
 - *2021-05* &nbsp;&nbsp; Second Price, National English Competition for College Students(NECCS)
 - *2020~2022* &nbsp;&nbsp; Three-good Student for three consecutive years
 - *2020-12* &nbsp;&nbsp; Scholarship on Social Works in SEU
-- ***2020-12* &nbsp;&nbsp; President Scholarship in SEU**
+- ***2020-12* &nbsp;&nbsp; President Scholarship (top 0.9%) in SEU**
 - *2020-05* &nbsp;&nbsp; Excellent League Cadres, Award for the Models of the Chinese Youth in SEU
 - *2020-05* &nbsp;&nbsp; Third Prize, the 17th Southeast University College Student Programming Competition
