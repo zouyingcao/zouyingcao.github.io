@@ -2,6 +2,7 @@
 
 Below, I list some Honors and Awards that inspire me deeply.
 
+- *2025-11* &nbsp;&nbsp; Yang Yuanqing Education Fund Scholarship
 - *2024-11* &nbsp;&nbsp; Huatai Securities Technology Scholarship
 - *2024-11* &nbsp;&nbsp; First Prize Graduate Academic Scholarship in SJTU
 - *2023-06* &nbsp;&nbsp; Outstanding Graduates of Southeast University
