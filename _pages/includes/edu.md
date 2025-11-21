@@ -2,6 +2,7 @@
 - *2025.06 - Present*, Tongyi Laboratory, Summer Intern
   
   **Topic**: LLM Agent + Memory + RL
+  
   **Contribution**: I participated in the development of the [ReMe](https://github.com/agentscope-ai/ReMe) framework, particularly focusing on the management of procedural memory for experience-driven agent evolution. 
 
 - *2024.07 - 2025-06*, Taobao & Tmail Group of Alibaba, Research Intern
