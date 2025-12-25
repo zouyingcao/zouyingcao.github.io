@@ -4,6 +4,12 @@ A full publication list is available on my [google scholar](https://scholar.goog
 
 (* denotes equal contribution)
 <div class='paper-box-text' markdown="1">
+- [Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696) \\
+  **Zouying Cao**, Jiaji Deng, Li Yu, Weikang Zhou, Zhaoyang Liu, Bolin Ding, Hai Zhao.\\
+  **[Preprint, 2025]** | <a href="https://arxiv.org/pdf/2512.10696" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/agentscope-ai/ReMe" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-ACL 2025.pptx" target="_blank"><img src='https://img.shields.io/badge/ReMe.library-181717?logo=databricks&logoColor=white' alt='Data'></a>
+</div>
+
+<div class='paper-box-text' markdown="1">
 - [PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization](https://arxiv.org/abs/2506.01475) \\
   **Zouying Cao**, Runze Wang, Yifei Yang, Xinbei Ma, Xiaoyong Zhu, Bo Zheng, Hai Zhao.\\
   **[ACL-Findings, 2025]** | <a href="https://arxiv.org/pdf/2506.01475" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/zouyingcao/PGPO" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-ACL 2025.pptx" target="_blank"><img src='https://img.shields.io/badge/Slides-181717?style=flat&logo=Slides&logoColor=white' alt='Slides'></a> | <a href="https://zouyingcao.github.io/_pages/files/PGPO-poster.pdf" target="_blank"><img src='https://img.shields.io/badge/Poster-181717?style=flat&logo=airplayvideo&logoColor=white' alt='Poster'></a>
