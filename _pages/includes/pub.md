@@ -6,7 +6,7 @@ A full publication list is available on my [google scholar](https://scholar.goog
 <div class='paper-box-text' markdown="1">
 - [Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution](https://arxiv.org/abs/2512.10696) \\
   **Zouying Cao**, Jiaji Deng, Li Yu, Weikang Zhou, Zhaoyang Liu, Bolin Ding, Hai Zhao.\\
-  **[Preprint, 2025]** | <a href="https://arxiv.org/pdf/2512.10696" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/agentscope-ai/ReMe" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://github.com/agentscope-ai/ReMe/tree/main/docs/library/paper_data/task" target="_blank"><img src='https://img.shields.io/badge/ReMe.library-181717?logo=liquibase&logoColor=white' alt='Data'></a> | <a href="https://github.com/agentscope-ai/ReMe" target="_blank"><img src="https://img.shields.io/badge/Website-181717?style=flat&logo=gitbook&logoColor=white" alt="Website" /></a> 
+  **[ACL-Findings, 2026]** | <a href="https://arxiv.org/pdf/2512.10696" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/agentscope-ai/ReMe" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> | <a href="https://github.com/agentscope-ai/ReMe/tree/main/docs/library/paper_data/task" target="_blank"><img src='https://img.shields.io/badge/ReMe.library-181717?logo=liquibase&logoColor=white' alt='Data'></a> | <a href="https://github.com/agentscope-ai/ReMe" target="_blank"><img src="https://img.shields.io/badge/Website-181717?style=flat&logo=gitbook&logoColor=white" alt="Website" /></a> 
 </div>
 
 <div class='paper-box-text' markdown="1">
@@ -21,11 +21,11 @@ A full publication list is available on my [google scholar](https://scholar.goog
  **[ACL-Main, 2025]** | <a href="https://arxiv.org/pdf/2502.13794" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/yangyifei729/LESA" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> 
 </div>
 
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box-text' markdown="1">
 - [Plan-over-Graph: Towards Parallelable LLM Agent Schedule](https://arxiv.org/abs/2502.14563) \\
   Shiqi Zhang\*, Xinbei Ma\*, **Zouying Cao**, Zhuosheng Zhang, Hai Zhao. \\
  **[Preprint, 2025]** | <a href="https://arxiv.org/pdf/2502.14563" target="_blank"><img src='https://img.shields.io/badge/PDF-181717?style=flat&logo=arXiv&logoColor=red' alt='PDF'></a> | <a href="https://github.com/zsq259/Plan-over-Graph" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="Code" /></a> 
-</div>
+</div> -->
 
 <div class='paper-box-text' markdown="1">
 - [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://arxiv.org/abs/2410.18517) \\
