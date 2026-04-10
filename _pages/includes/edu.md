@@ -5,7 +5,7 @@
   
   **Contribution**: I participated in the development of the [ReMe](https://github.com/agentscope-ai/ReMe) ![STAR](https://img.shields.io/github/stars/agentscope-ai/ReMe) framework, particularly focusing on the management of procedural memory for experience-driven agent evolution. 
 
-- *2024.07 - 2025-06*, Taobao & Tmail Group of Alibaba, Research Intern
+- *2024.07 - 2025-06*, Future Living Lab of Alibaba, Research Intern
   
   **Topic**: LLM Agent Planning
   
