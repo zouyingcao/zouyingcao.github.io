@@ -6,7 +6,6 @@
 - *2024.09*: &nbsp;🎉 Two papers (1-first, 1-contribute) are accepted by **EMNLP 2024**.
 
 # 📃 Publications
-w
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=IIA4hMEAAAAJ&hl=zh-CN) page.
 
 (* denotes equal contribution)
