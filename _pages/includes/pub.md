@@ -1,4 +1,7 @@
-# 📝 Publications
+# 🔥 News
+- *2026.04*: &nbsp;🎉 4 papers (1-first, 3-contribute) are accepted by **ACL 2026**.
+
+# 📃 Publications
 
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=IIA4hMEAAAAJ&hl=zh-CN) page.
 
