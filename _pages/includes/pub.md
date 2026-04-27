@@ -1,8 +1,12 @@
 # 🔥 News
-- *2026.04*: &nbsp;🎉 4 papers (1-first, 3-contribute) are accepted by **ACL 2026**.
+- *2026.04*: &nbsp;🎉 Four papers (1-first, 3-contribute) are accepted by **ACL 2026**. Congratulations to [ReMe](https://github.com/agentscope-ai/ReMe)!
+- *2025.11*: &nbsp;💪 My very first research paper from my graduate studies, [AutoHall](https://arxiv.org/abs/2310.00259), has finally been accepted by **TASLP** after a long and challenging review process🐢!
+- *2025.05*: &nbsp;🎉 Two papers (1-first, 1-contribute) are accepted by **ACL 2025**.
+- *2024.12*: &nbsp;🥳 [SCANS](https://arxiv.org/abs/2408.11491) is accepted by **AAAI 2025** as **Oral** presentation.
+- *2024.09*: &nbsp;🎉 Two papers (1-first, 1-contribute) are accepted by **EMNLP 2024**.
 
 # 📃 Publications
-
+w
 A full publication list is available on my [google scholar](https://scholar.google.com/citations?user=IIA4hMEAAAAJ&hl=zh-CN) page.
 
 (* denotes equal contribution)
