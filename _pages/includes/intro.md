@@ -9,6 +9,7 @@ Thinking of my postgraduate stage, it was literally a serendipity that I began t
 I worked on several interesting topics related to LLMs, including hallucination, model compression and alignment.
 During my internships at Alibaba (Tongyi Lab; Future Living Lab), I've also gained practical knowledge and skills in LLM Agents and RL, mainly focusing on agent memory and reasoning. 
 
-Now, my current research centers on investigating of 
+
+Now, my current research centers on investigating agentic intelligence of foundation models. 
 
 Feel free to reach out if you'd like to discuss research or explore potential collaboration!
