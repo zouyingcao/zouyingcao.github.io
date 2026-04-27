@@ -1,4 +1,4 @@
-# 💻 Internship
+# 💻 Internships
 - *2025.06 - 2026.04*, Tongyi Laboratory, Summer Intern
   
   **Topic**: LLM Agent + Memory + RL
